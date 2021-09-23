@@ -1,5 +1,5 @@
 /**
- * @file leerArchivo.cpp
+ * @file leerArchivo.hpp
  *
  * Definicion de la clase "Archivo"
  * 

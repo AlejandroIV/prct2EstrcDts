@@ -1,5 +1,5 @@
 /**
- * @file listaDoble.cpp
+ * @file listaDoble.hpp
  *
  * Definicion de la clase "ListaDoble"
  * 
